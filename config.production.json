@@ -1,5 +1,5 @@
 {
-	"url": "http://www.gaomc.site",
+	"url": "https://mengchen-gao.herokuapp.com/",
 	"server": {
     	"port": 2368,
     	"host": "0.0.0.0"
